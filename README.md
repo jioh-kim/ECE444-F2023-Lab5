@@ -2,7 +2,8 @@
 Test Driven Development (TDD) Practice following -> https://github.com/mjhea0/flaskr-tdd
 
 # Link to the unit test I added
-https://github.com/ECE444-2023Fall/Blue-Surf/blob/010961ae754164aa093113738ce678105d08b0ab/backend/tests/test_database.py#L106C1-L157C63
+
+Testing relationship between user and event that they are interested in: [Link](https://github.com/ECE444-2023Fall/Blue-Surf/blob/010961ae754164aa093113738ce678105d08b0ab/backend/tests/test_database.py#L106C1-L157C63)
 
 # Pros and Cons of TDD
 One of the most important benefits of TDD is the automation of the testing process. This ensures that as new features are added or changes are made, previously written tests can check for errors. It ensures a higher quality of code, catching errors immediately during development. This immediate feedback loop helps maintain software integrity by reducing the likelihood of bugs. TDD also enables clear communication between all stakeholders to be on the same page from the start. This shared understanding reduces ambiguities, ensuring everyone is aligned before actual implementation begins. Lastly, TDD is a good choice for Agile methodologies, as it prioritizes iterative development and constant feedback loops.
